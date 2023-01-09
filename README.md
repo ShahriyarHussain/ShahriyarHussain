@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShahriyarHussain
-- 👀 I’m interested in Industry Frameworks, Container Orchastration, DevOps
-- 🌱 I’m currently learning Spring Boot, ReactJs, TypeScript, Docker
-- 💞️ I’m looking to collaborate on any project that includes the above tech
+- 👀 I’m interested in FinTech, Industry Frameworks, Infrastucture, DevOps
+- 🌱 I’m currently learning EJB, Spring Boot, ReactJs, PL/SQL, ZKOss
+- 💞️ I'm currntly working in a FinTech Company
 
 <!---
 ShahriyarHussain/ShahriyarHussain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
